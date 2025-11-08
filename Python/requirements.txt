@@ -1,0 +1,7 @@
+pip isntall opencv-python
+pip isntall numpy
+pip isntall pyserial
+pip isntall imutils
+pip isntall ultralytics
+pip isntall cvzone
+
