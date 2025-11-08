@@ -52,6 +52,7 @@ The YOLOv8 model (`yolov8n.pt`) should be placed in the `Python/models/` directo
 2. Install the FastLED library (Tools → Manage Libraries → Search "FastLED")
 3. Select your Arduino board and port
 4. Upload the sketch to your Arduino
+5. headlight_control.py is the final working project demo file w.r.t sketch_nov3a.ino
 
 ## 🚀 Usage
 
